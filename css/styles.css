@@ -1,0 +1,24 @@
+.containerID {
+  padding: 75px;
+}
+.header {
+  font-size: 10em;
+  text-align: center;
+  margin-top: -7%;
+  padding: 0;
+}
+.chevron{
+  font-size: 0.25em;
+  color: orange;
+  padding-bottom: 6%;
+}
+.double {
+  width: 300px;
+  margin-top: -3%;
+}
+.well {
+  text-align: center;
+}
+.navbar ul {
+  text-align: center;
+}
